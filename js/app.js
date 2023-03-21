@@ -22,14 +22,14 @@ var app = new Framework7({
     	name: 'home',
   		},
 		{
-		path: '/productos/',
+		path: '/listado de productos/',
     	url: 'listado de productos.html',
-    	name: 'productos',
+    	name: 'listado de productos',
   		},
 		{
-		path: '/cards/',
-    	url: 'cards.html',
-    	name: 'cards',
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',
   		},
 		{
 		path: '/swiper/',
